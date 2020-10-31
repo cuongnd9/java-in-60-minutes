@@ -63,6 +63,8 @@ public class AwesomeJava {
 - [Java Cheat Sheet](https://hackr.io/blog/java-cheat-sheet)
 - [Object-Oriented Java](https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet)
 
-## Spring Boot 💅 (30 minutes)
+## ✅ Spring Boot 💅 (30 minutes)
+
+**[Details](./chichi)**
 
 ## Docker 🐳 (5 minutes)
