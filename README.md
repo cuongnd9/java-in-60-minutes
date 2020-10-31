@@ -67,4 +67,6 @@ public class AwesomeJava {
 
 **[Details](./chichi)**
 
-## Docker 🐳 (5 minutes)
+## ✅ Docker 🐳 (5 minutes)
+
+**[Details](./chichi)**
