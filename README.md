@@ -2,7 +2,7 @@
 
 > I hate 🤬 Java.
 
-## ✅ Setup environment on MacOS (5 minutes)
+## ✅ Setup environment 🌳 on MacOS 👩🏼‍💻 (5 minutes)
 
 1. Download JDK: https://jdk.java.net/15/
 
@@ -48,7 +48,7 @@ export PATH=/opt/apache-maven-3.6.3/bin:$PATH
 mvn --version
 ```
 
-## ✅ Java Core (20 minutes)
+## ✅ Java Core 👻 (20 minutes)
 
 ```java
 public class AwesomeJava {
@@ -60,6 +60,6 @@ public class AwesomeJava {
 
 **[Details](./java-core)**
 
-## Spring Boot (30 minutes)
+## Spring Boot 💅 (30 minutes)
 
-## Docker (5 minutes)
+## Docker 🐳 (5 minutes)
