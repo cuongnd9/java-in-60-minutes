@@ -1,0 +1,4 @@
+```sh
+mvn install
+./mvnw spring-boot:run
+```
