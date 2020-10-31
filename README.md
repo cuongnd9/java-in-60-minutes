@@ -1,5 +1,7 @@
 # java-in-60-minutes
 
+> I hate 🤬 Java.
+
 - [ x ] Setup environment on MacOS (5 minutes)
 
 1. Download JDK: https://jdk.java.net/15/
