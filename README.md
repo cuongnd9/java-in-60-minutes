@@ -1,8 +1,8 @@
 # java-in-60-minutes
 
-> I hate 🤬 Java.
+> Java 👸🏻, I hate 🤬 you.
 
-- [ x ] Setup environment on MacOS (5 minutes)
+## ✅ Setup environment 🌳 on MacOS 👩🏼‍💻 (5 minutes)
 
 1. Download JDK: https://jdk.java.net/15/
 
@@ -48,8 +48,21 @@ export PATH=/opt/apache-maven-3.6.3/bin:$PATH
 mvn --version
 ```
 
-- [ ] Java Core (20 minutes)
+## ✅ Java Core 👻 (20 minutes)
 
-- [ ] Spring Boot (30 minutes)
+```java
+public class AwesomeJava {
+    public static void main(String[] args) {
+        System.out.println("Hello 🖖 Java. I love ❤️ you.");
+    }
+}
+```
 
-- [ ] Docker (5 minutes)
+**[Details](./java-core)**
+
+- [Java Cheat Sheet](https://hackr.io/blog/java-cheat-sheet)
+- [Object-Oriented Java](https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet)
+
+## Spring Boot 💅 (30 minutes)
+
+## Docker 🐳 (5 minutes)
