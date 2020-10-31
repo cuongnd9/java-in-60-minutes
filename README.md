@@ -1,6 +1,6 @@
 # java-in-60-minutes
 
-> I hate 🤬 Java.
+> Java 👸🏻, I hate 🤬 you.
 
 ## ✅ Setup environment 🌳 on MacOS 👩🏼‍💻 (5 minutes)
 
@@ -59,6 +59,9 @@ public class AwesomeJava {
 ```
 
 **[Details](./java-core)**
+
+- [Java Cheat Sheet](https://hackr.io/blog/java-cheat-sheet)
+- [Object-Oriented Java](https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u/cheatsheet)
 
 ## Spring Boot 💅 (30 minutes)
 
